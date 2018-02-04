@@ -7,7 +7,6 @@ $('.change_background_button').click(changeBackground)
      'url(http://www.showbiz411.com/wp-content/uploads/2018/01/west-side-story-1200-1200-675-675-crop-000000.jpg)',
      'url(https://3.bp.blogspot.com/-oou_sJythtU/VJBvAIKuPDI/AAAAAAAAPT4/BTnF6wpmuC8/s1600/lo_que_el_viento_se_llevo_75_aniversario_610014586_1200x800.jpg)'
 );
-
 		var i = 0;
     function changeBackground() {
     	$('body').css('background-image', backgrounds[i]);
