@@ -1,0 +1,60 @@
+body {
+  font-family:garamond;
+  font-size: 15px;
+  background: #FFFFFF;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+#header {
+  color: white;
+  padding: 10px;
+  font-size: 30px;
+  border-radius: 1px;
+  text-align: center;
+}
+
+#bar {
+  text-align:center;
+  color: white;
+}
+
+#paragraph {
+  font-family:sans-serif;
+  text-align:center;
+  color:white;
+}
+
+li{
+    display:inline;
+    padding: 0px 12px 0px 12px;
+    color:white;
+    font-size: 20px;
+  }
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: blue;
+} /*from https://www.w3schools.com/css/tryit.asp?filename=trycss_link*/
+
+#button {
+text-align:center;
+padding:10px;
+}
+
+.change_background_button {
+  text-align:center;
+
+}
+
+#listserve_box {
+  text-align:center;
+}
