@@ -6,18 +6,6 @@ body {
   background-size: cover;
 }
 
-#cf6_image {
-  margin:0 auto;
-  width:450px;
-  height:281px;
-  transition: background-image 1s ease-in-out;
-  background-image: image("images/pierrot.png");
-}
-
-#cf6_image:hover {
-  background-image:url("images/persona.png");
-}
-
 #header {
   color: white;
   padding: 5px;
